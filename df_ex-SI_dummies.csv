@@ -1,4 +1,4 @@
-,zipcode,median_income,population,county,median_rent,restaurant_count,recycling_bin_count,num_subway_entrances,subway_bracket,logincome,logrent,logrestaurant,predicted_inc,difference,Bronx County,Kings County,New York County,Queens County
+,zipcode,median_income,population,county,median_rent,restaurant_count,recycling_bin_count,num_subway_entrances,subway_bracket,logincome,logrent,logrestaurant,predicted_inc,difference,bronx,kings,newyork,queens
 0,10001,71244.61,17678,New York County,3400.0,488.0,1.0,51.0,"(6, 72]",11.17387444614655,8.131530710604252,6.190315405853148,11.371688309920843,-0.1978138637742912,0,0,1,0
 1,10002,30843.9574,70878,New York County,3050.0,509.0,10.0,19.0,"(6, 72]",10.336696139808076,8.022896869601457,6.2324480165505225,10.896472772275196,-0.5597766324671198,0,0,1,0
 2,10003,89998.5339,53609,New York County,3750.0,682.0,7.0,28.0,"(6, 72]",11.40754865917972,8.229511118964458,6.525029657843463,11.202456327317693,0.2050923318620264,0,0,1,0
